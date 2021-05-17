@@ -6,7 +6,7 @@ FiveM chat clear script for admin to use
 * Add the following lines in server.cfg
 ```
 # chat command #
-ensure chatclear
+ensure chat-clear
 add_ace group.admin chat.clear allow # allow chat commands
 ```
 * start the server
